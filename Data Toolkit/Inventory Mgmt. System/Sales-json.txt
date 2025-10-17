@@ -1,0 +1,3 @@
+sahil,sahil@gmail.cm,98767877623,1004,Chocolate Cake,2,550,1100,Fri Jul  7 19:53:34 2023
+sam,sam@gmail.com,9887348745,1002,Wardrobe,1,20000,19800.0,Fri Jul  7 21:24:47 2023
+s,h,5456525654,1003,Sunscreen,5,500,3200.0,Tue Jul 25 13:03:15 2023
